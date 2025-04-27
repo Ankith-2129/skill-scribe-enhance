@@ -92,7 +92,7 @@ We welcome feedback and suggestions to improve the platform!
 You can reach out to us through our LinkedIn or GitHub profiles:
 
 Adelli Chandana
-LinkedIn | GitHub
+LinkedIn: https://www.linkedin.com/in/chandana-adelli-7bb557299/ | GitHub: https://github.com/Chandana-code113
 
 Jahnavi Vajjala
 LinkedIn: https://www.linkedin.com/in/jahnavi-v-0a31b6295/ | GitHub: https://github.com/vajjalajahnavi06
@@ -101,7 +101,7 @@ Ankitha Avudhurthi
 LinkedIn: https://www.linkedin.com/in/ankitha-avudhurthi | GitHub: https://github.com/Ankith-2129
 
 Akshaya Thotapelli
-LinkedIn | GitHub
+LinkedIn:  | GitHub: https://github.com/akshayathotapelli22
 
 (Replace YOUR_LINKEDIN_LINK and YOUR_GITHUB_LINK with your actual links!)
 
