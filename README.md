@@ -84,6 +84,32 @@ ScreenShot
 ![Alt Text](https://github.com/Ankith-2129/skill-scribe-enhance/blob/65a0d43a4a145232ff0d52b83073481fcf8783b9/Screenshot%20(229).png)
 ![Alt Text](https://github.com/Ankith-2129/skill-scribe-enhance/blob/b93e657a97f4f6c51c20694f47f6938cefc18f8d/Screenshot%20(230).png)
 
+🎥 Demo Video
+Click here to watch the demo video
 
+📬 Get in Touch
+We welcome feedback and suggestions to improve the platform!
+You can reach out to us through our LinkedIn or GitHub profiles:
+
+Adelli Chandana
+LinkedIn | GitHub
+
+Jahnavi Vajjala
+LinkedIn: https://www.linkedin.com/in/jahnavi-v-0a31b6295/ | GitHub: https://github.com/vajjalajahnavi06
+
+Ankitha Avudhurthi
+LinkedIn: https://www.linkedin.com/in/ankitha-avudhurthi | GitHub: https://github.com/Ankith-2129
+
+Akshaya Thotapelli
+LinkedIn | GitHub
+
+(Replace YOUR_LINKEDIN_LINK and YOUR_GITHUB_LINK with your actual links!)
+
+🏆 Acknowledgments
+We are immensely grateful to everyone who contributed to this project,
+especially our mentors and the hackathon organizers.
+We believe Resume Quality Enhancer has the potential to make resume writing accessible, professional, and impactful for everyone.
+
+Made with ❤ at the Hackathon!
 
 
