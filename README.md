@@ -85,7 +85,7 @@ ScreenShot
 ![Alt Text](https://github.com/Ankith-2129/skill-scribe-enhance/blob/b93e657a97f4f6c51c20694f47f6938cefc18f8d/Screenshot%20(230).png)
 
 🎥 Demo Video
-Click here to watch the demo video
+https://drive.google.com/file/d/1pntsrGVz0V35AT0BqMbSfJDkGk1okYKH/view?usp=sharing
 
 📬 Get in Touch
 We welcome feedback and suggestions to improve the platform!
@@ -101,9 +101,8 @@ Ankitha Avudhurthi
 LinkedIn: https://www.linkedin.com/in/ankitha-avudhurthi | GitHub: https://github.com/Ankith-2129
 
 Akshaya Thotapelli
-LinkedIn:  | GitHub: https://github.com/akshayathotapelli22
+LinkedIn: https://www.linkedin.com/in/akshaya-thotapelli-1155032aa/| GitHub: https://github.com/akshayathotapelli22
 
-(Replace YOUR_LINKEDIN_LINK and YOUR_GITHUB_LINK with your actual links!)
 
 🏆 Acknowledgments
 We are immensely grateful to everyone who contributed to this project,
