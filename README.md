@@ -78,5 +78,5 @@ Help users grab more interview opportunities by improving the first impression.
 
 ScreenShot
 ![Alt Text](https://github.com/Ankith-2129/skill-scribe-enhance/blob/7f6c2e4a7680ef8690da6668556d485aa8490be4/Screenshot%20(225).png )
-![Alt Text]([https://github.com/Ankith-2129/skill-scribe-enhance/blob/7f6c2e4a7680ef8690da6668556d485aa8490be4/Screenshot%20(225).png ](https://github.com/Ankith-2129/skill-scribe-enhance/blob/c78d84546bed5278185c60e6690009b913f11bb1/Screenshot%20(226).png))
+![Alt Text](https://github.com/Ankith-2129/skill-scribe-enhance/blob/c78d84546bed5278185c60e6690009b913f11bb1/Screenshot%20(226).png)
 
